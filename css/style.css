@@ -1,0 +1,41 @@
+body{
+    
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: white!important;
+}
+#card {
+    background: #fbfbfb;
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    height: 410px;
+    margin: 6rem auto 8.1rem auto;
+    width: 329px;
+    color: black;
+    text-align: center;
+}
+#card ul{
+    text-align: left;
+}
+.pengerjaan-card {
+    background: #fbfbfb;
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    height: 2000px;
+    margin: 4rem auto 8.1rem auto;
+    width: 600px;
+    color: black;
+    text-align: center;
+
+    
+    
+    
+}
+.pengerjaan-card form{
+    padding-left: 50px;
+}
+table{
+    
+    width: 75%!important;
+}
